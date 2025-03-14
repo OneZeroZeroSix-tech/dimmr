@@ -1,9 +1,12 @@
 <html lang="en">
 <meta charset="UTF-8">
-
+<title>ME</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
+<style>
+body {font-family:"Times New Roman", serif}
+h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
+</style>
 <body>
 
 <!-- Navigation (Sits on top) -->
