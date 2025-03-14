@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 <!-- Image in Display Container -->
 <div class="w3-padding-top-48">
 <div class="w3-display-container">
-<br><img src="images/group.jpg" alt="Catering" style="width:100%; height: 300px;">
+<br><img src="group.jpg" alt="Catering" style="width:100%; height: 300px;">
 
 <div class="w3-display-bottomleft w3-padding-small w3-opacity w3-hide-small">
 <h2>---</h2>
@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 <div class="w3-row">
 
 <div class="w3-col l6 m6 w3-padding-large">
-<img src="images/profile1.jpg" class="w3-round w3-image w3-opacity-min" alt="Table" style="width:100%">
+<img src="profile1.jpg" class="w3-round w3-image w3-opacity-min" alt="Table" style="width:100%">
 </div>
 
 <div class="w3-half w3-padding-large">
@@ -62,7 +62,7 @@ Excepteur sint occaecat</p>
 <div class="w3-row">
 
 <div class="w3-col l6 m6 w3-padding-large">
-<img src="images/texting.jpg" class="w3-round w3-image w3-opacity-min" alt="Table" style="width:100%">
+<img src="texting.jpg" class="w3-round w3-image w3-opacity-min" alt="Table" style="width:100%">
 </div>
 
 <div class="w3-half w3-padding-large">
@@ -79,7 +79,7 @@ Our social media platform enables individuals to connect instantly through seaml
 <div class="w3-row">
 
 <div class="w3-col l6 m6 w3-padding-large">
-<img src="images/post.jpg" class="w3-round w3-image w3-opacity-min" alt="Table" style="width:100%">
+<img src="post.jpg" class="w3-round w3-image w3-opacity-min" alt="Table" style="width:100%">
 </div>
 
 <div class="w3-half w3-padding-large">
@@ -118,7 +118,7 @@ We will provide “Report an issue” section to prevent security threats.</span
 </div>
 
 <div class="w3-col l6 m6 w3-padding-large">
-<img src="images/safety.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+<img src="safety.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
 </div>
 
 </div>
@@ -155,7 +155,7 @@ With syrup, butter and lots of berries 8.50</p>    -->
 </div>
 
 <div class="w3-col l6 m6 w3-padding-large">
-<img src="images/about_us.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+<img src="about_us.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
 </div>
 
 </div>
@@ -176,7 +176,7 @@ With syrup, butter and lots of berries 8.50</p>    -->
 <b>One Washington Square, San Jose, CA, 95192</b></p>
 <p>You can also contact me by email shwethha10@gmail.com</p>
 
-<img src="images/map.jpg" class="w3-image" style="width:100%; height: 300px">
+<img src="map.jpg" class="w3-image" style="width:100%; height: 300px">
 </div>  
 
 <!-- End Content -->
