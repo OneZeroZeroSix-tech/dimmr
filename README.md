@@ -8,7 +8,7 @@
 
 <!-- Navigation (Sits on top) -->
 <div class="w3-top w3-bar w3-white w3-padding w3-card w3-wide">
-<a href="#home" class="w3-bar-item w3-button" style="font-size: 30px;">ME</a>
+<a href="#home" class="w3-bar-item w3-button" style="font-size: 30px;">Dimmr</a>
 
 <!-- Right-sided navbar links. Hide them on small screens -->
 <div class="w3-right w3-hide-small">
