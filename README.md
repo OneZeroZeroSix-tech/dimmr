@@ -51,6 +51,7 @@ h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
 Our platform is a social media website where individuals can create personalized profiles and write detailed self-descriptions, similar to Wikipedia. Share your story, achievements, interests, and more in a dedicated space that truly represents you. Connect, discover, and explore others’ profiles in a community built for self-expression and meaningful interactions.</p>
 <p class="w3-large">
 Users have to allow this website to continuously access their location. So, wherever the users travel, they carry their profile with them. Others will be able to see their profile description who are within 100m and who know their profile name.</p>
+
 </div>
 
 </div>
